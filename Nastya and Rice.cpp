@@ -21,7 +21,7 @@ while(t--){
 	else cout<<"Yes"<<endl;
 }
 }
-
+//1341A
 
 
 
