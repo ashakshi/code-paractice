@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-//codeforces round 723(div2)
+//codeforces round 723(divsion 2)
 //i hate 1111
 using namespace std;
 typedef long long ll;
