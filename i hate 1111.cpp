@@ -18,6 +18,9 @@ int t;cin>>t;while(t--){
 		}
 		x-=111;
 	}
+	if(f)cout<<"YES"<<endl;
+	else
+        cout<<"NO"<<endl;
 }
 //mc nugget theorem -->the greatest integer that can't be formed using 11 and 111
 //is 11*111-11-111=1099
